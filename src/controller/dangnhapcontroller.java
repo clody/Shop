@@ -17,7 +17,7 @@ import pojo.KhachHangPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "dangnhapcontroller", urlPatterns = {"/dangnhapcontroller.do"})
 public class dangnhapcontroller extends HttpServlet {

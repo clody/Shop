@@ -15,7 +15,7 @@ import pojo.SPPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "themdmcontroller", urlPatterns = {"/themdmcontroller"})
 public class themdmcontroller extends HttpServlet {

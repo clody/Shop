@@ -20,7 +20,7 @@ import pojo.SPPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "tonkhocontroller", urlPatterns = {"/tonkhocontroller"})
 public class tonkhocontroller extends HttpServlet {

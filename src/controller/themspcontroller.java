@@ -22,7 +22,7 @@ import pojo.SPPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "themspcontroller", urlPatterns = {"/themspcontroller"})
 public class themspcontroller extends HttpServlet {

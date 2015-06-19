@@ -16,7 +16,7 @@ import pojo.SPPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "spcontroller", urlPatterns = {"/spcontroller"})
 public class spcontroller extends HttpServlet {

@@ -18,12 +18,16 @@ import pojo.DanhMucPojo;
 
 /**
  *
- * @author luctanbinh
+ * @author Tri
  */
 @WebServlet(name = "doanhthucontoller", urlPatterns = {"/doanhthucontoller"})
 public class doanhthucontoller extends HttpServlet {
 
     /**
+	 * 
+	 */
+
+	/**
      * Processes requests for both HTTP
      * <code>GET</code> and
      * <code>POST</code> methods.
